@@ -19,7 +19,7 @@ function update() {
    if(x === 300 && y === 370) {
        velX = 0;
        velY = 0;
-       location.href = "https://location.cyou/film.php?location=28D8W1"    
+       location.href = "https://location.cyou/location.php?id=H9YZDJ"    
     }
     
    ctx.clearRect(x, y, size, size);
